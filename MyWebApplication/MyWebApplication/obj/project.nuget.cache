@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxrKVy0vIpLVru9JxZe4GiMfvj5OtlAt16H+nZp7BPa/+9zF1uWIju35WcFcErHbpEuCs3E6IDBBNZ/Ftv0TdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shiv\\Source\\Repos\\tcs280823\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shiv\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
