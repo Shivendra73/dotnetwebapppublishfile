@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyWebApplication",
+    "\\MyWebApplication\\MyWebApplication"
   ],
-  "SelectedNode": "\\C:\\Users\\Shiv\\Source\\Repos\\tcs280823",
+  "SelectedNode": "\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
   "PreviewInSolutionExplorer": false
 }
