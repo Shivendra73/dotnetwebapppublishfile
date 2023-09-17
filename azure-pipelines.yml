@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'window-latest'
 
 variables:
   solution: '**/*.sln'
@@ -16,10 +16,7 @@ variables:
 
 steps:
 
-- task: UseDotNet@2
-  inputs:
-    packageType: 'sdk'
-    version: '6.x'
+
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
@@ -42,6 +39,5 @@ steps:
     command: 'test'
     projects: '**/webTest.csproj'
     arguments: '--configuration $(buildConfiguration)'
-
 
 
