@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ay/WbjM3mbjyFHlbB1udRbYgzF127CGEDPyCK/BQYRYTdU/Ar13COCNyJ8pLzrbAOnPrj/BSyCmMLiEFSbL2FA==",
+  "dgSpecHash": "FuxC8g22+ayiS6fxf4ce3cV3y05ds2HUp14ZN2orM/XogNEozNOPtfsiJ3X81QPoNXgGrGosPYBHUHjgJv5EMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shiv\\Source\\Repos\\tcs280823\\MyWebApplication\\webTest\\webTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shiv\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\Shiv\\.nuget\\packages\\coverlet.msbuild\\6.0.0\\coverlet.msbuild.6.0.0.nupkg.sha512",
     "C:\\Users\\Shiv\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\Shiv\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\Shiv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -1,0 +1,6 @@
+C:\Users\Shiv\source\repos\tcs280823\CalculatorFeed\obj\Debug\CalculatorFeed.csproj.AssemblyReference.cache
+C:\Users\Shiv\source\repos\tcs280823\CalculatorFeed\obj\Debug\CalculatorFeed.csproj.CoreCompileInputs.cache
+C:\Users\Shiv\source\repos\tcs280823\CalculatorFeed\bin\Debug\CalculatorFeed.Proj.dll
+C:\Users\Shiv\source\repos\tcs280823\CalculatorFeed\bin\Debug\CalculatorFeed.Proj.pdb
+C:\Users\Shiv\source\repos\tcs280823\CalculatorFeed\obj\Debug\CalculatorFeed.Proj.dll
+C:\Users\Shiv\source\repos\tcs280823\CalculatorFeed\obj\Debug\CalculatorFeed.Proj.pdb
